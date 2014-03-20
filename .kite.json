@@ -2,6 +2,6 @@
     name: "github.com/cenkalti/math.kite",
     version: "1.0.0",
     platforms: {
-        darwin_amd64: "https://github.com/cenkalti/math.kite/releases/download/v1.0.0/math-1.0.0-darwin-amd64.zip"
+        darwin_amd64: "https://github.com/cenkalti/math.kite/releases/download/v1.0.0/math-1.0.0-darwin-amd64.tar.gz"
     }
 }
